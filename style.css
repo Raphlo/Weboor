@@ -28,7 +28,7 @@
     background-color: #4CAF50;
     color: white;
 }
-/* end of navbat */
+/* end of navbar */
 
 h2.back {
   float: right;
@@ -36,10 +36,6 @@ h2.back {
   text-decoration: underline;
 
 }
-
-/* body.background {
-  add a background
-} */
 
 body.scroll {
   scroll-behavior: smooth;
