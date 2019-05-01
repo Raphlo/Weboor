@@ -28,13 +28,19 @@
     background-color: #4CAF50;
     color: white;
 }
-/* end of navbar */
 
-h2.back {
+.topnav a.return {
   float: right;
-  overflow: hidden;
-  text-decoration: underline;
-
+}
+/* end of navbar */
+.boxed-form {
+  background-color: white;
+  box-align: center;
+  border: 10px solid lightgrey;
+  padding: 30px;
+  width: auto;
+  margin-top: 50px;
+  margin-left: 20px;
 }
 
 body.scroll {
