@@ -33,6 +33,7 @@
   float: right;
 }
 /* end of navbar */
+
 .boxed-form {
   background-color: white;
   box-align: center;
@@ -45,4 +46,10 @@
 
 body.scroll {
   scroll-behavior: smooth;
+}
+
+.game-box {
+  box-align: relative;
+  border: 5px solid black;
+  margin: 40px 20px 20px;
 }
